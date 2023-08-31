@@ -17,7 +17,7 @@ $ cd planet
 
 3. Add cosmwasm plugin within your project directory:
 ```
-ignite plugin add github.com/project/cli-plugin
+ignite plugin add github.com/yerasyla/cosmwasm-plugin
 ```
 
 4. Run command
