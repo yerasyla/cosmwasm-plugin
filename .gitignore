@@ -1,1 +1,4 @@
 cosmwasm-plugin
+.idea/
+.vscode/
+.DS_Store
